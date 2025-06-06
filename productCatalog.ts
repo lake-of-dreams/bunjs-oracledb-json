@@ -1,4 +1,4 @@
-import { Result, getConnection, SYSDBA } from 'oracledb';
+import { type Result, getConnection, SYSDBA } from 'oracledb';
 const dbConfig = {
     user: "SYS",
     password: "oracle",
