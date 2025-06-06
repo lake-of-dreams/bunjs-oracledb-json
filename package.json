@@ -1,0 +1,14 @@
+{
+  "name": "bunjs-oracledb-json",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@types/oracledb": "^6.6.0",
+    "oracledb": "^6.8.0"
+  }
+}
